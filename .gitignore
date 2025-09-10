@@ -7,3 +7,4 @@ __pycache__/
 build/
 tmp/
 coverage/
+.pytest_cache/
